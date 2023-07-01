@@ -1,0 +1,5 @@
+D:\Escritorio\Modulo 3-Pree\TaskAggregateRoot\TaskAggregateRoot\tests\UnitTests\Application.Customers.UnitTests\obj\Debug\net7.0\Application.Customers.UnitTests.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TaskAggregateRoot\TaskAggregateRoot\tests\UnitTests\Application.Customers.UnitTests\obj\Debug\net7.0\Application.Customers.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TaskAggregateRoot\TaskAggregateRoot\tests\UnitTests\Application.Customers.UnitTests\obj\Debug\net7.0\Application.Customers.UnitTests.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TaskAggregateRoot\TaskAggregateRoot\tests\UnitTests\Application.Customers.UnitTests\obj\Debug\net7.0\Application.Customers.UnitTests.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TaskAggregateRoot\TaskAggregateRoot\tests\UnitTests\Application.Customers.UnitTests\obj\Debug\net7.0\Application.Customers.UnitTests.csproj.CoreCompileInputs.cache
